@@ -35,7 +35,7 @@ public class CreateData
         outputMaster = new Formatter("oldmast.txt");
 
         // file stream for output Transaction file
-        outputTransaction = new Formatter( "Trans.txt");
+        outputTransaction = new Formatter( "trans.txt");
       } // end try
 
       catch(SecurityException se)
