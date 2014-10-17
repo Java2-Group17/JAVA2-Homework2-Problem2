@@ -1,3 +1,10 @@
+//Group 17
+
+//Jonathan Cuellar
+//Navinthira Raman
+//Luis Gardea
+//Ephraim Girmay
+//Gerardo Gonzalez-Inzunza
 
 public class TransactionRecord
 {

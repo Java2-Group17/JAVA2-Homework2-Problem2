@@ -1,7 +1,10 @@
-/* Write a program to create data for testing the program.
-Use the sample account data. Run the program to create the files
-trans.txt and oldmast.txt, to be used by file-matching program
-*/
+//Group 17
+
+//Jonathan Cuellar
+//Navinthira Raman
+//Luis Gardea
+//Ephraim Girmay
+//Gerardo Gonzalez-Inzunza
 
 import java.io.File;
 import java.io.FileNotFoundException;
